@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "AI Fitness Assistant",
+    "slug": "ai-fitness-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": ["CAMERA", "DETECT_SCREEN_CAPTURE"]
+    },
+    "web": {
+    }
+  }
+}

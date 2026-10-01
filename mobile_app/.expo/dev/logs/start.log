@@ -1,0 +1,11 @@
+{"_e":"root:init","_t":1790099963399,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790099963399,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790099963400,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790099963534,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790099963682,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790099963795,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790099965803,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790100018716,"id":"1","platform":"android","environment":null,"entry":"node_modules/expo/AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1790100018716,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790100018722,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1790100018725,"id":"1","message":"Cannot read properties of undefined (reading 'transformFile')","importStack":null,"filename":null,"targetModuleName":null,"originModulePath":null}

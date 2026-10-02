@@ -249,8 +249,3 @@ The backend decodes each frame, runs MediaPipe Pose, derives all metrics, and re
 - GitHub: [@codee-19imran](https://github.com/codee-19imran)
 - Email: 11cshaikimranpasha@gmail.com
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.

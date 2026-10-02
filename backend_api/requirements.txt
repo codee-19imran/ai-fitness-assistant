@@ -1,8 +1,10 @@
 fastapi
 uvicorn
-scikit-learn
+scikit-learn==1.6.1
 joblib
 numpy
 pandas
 pydantic
 python-multipart
+opencv-python-headless
+mediapipe==0.10.14

@@ -19,5 +19,3 @@ This folder contains the FastAPI backend that runs the Machine Learning model.
    ```
 
 4. The API will be available at `http://localhost:8000`. You can view the interactive documentation at `http://localhost:8000/docs`.
-
-Make sure your mobile device and your computer are on the same WiFi network, and update the IP address in the React Native app to match your computer's local IP address.

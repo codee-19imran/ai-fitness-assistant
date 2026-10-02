@@ -1,0 +1,49 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large pip installer
+get-pip.py
+
+# Model binaries (tracked separately if needed)
+# models/*.pkl
+
+# Node modules (if any mobile sub-project)
+node_modules/
+
+# Logs
+*.log
+.venv/
+.venv/
